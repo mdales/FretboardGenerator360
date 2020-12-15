@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Digital Flapjack Ltd",
+	"description":	{
+		"":	"Generates fretboard layout sketches"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
